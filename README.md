@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Shahid</h1>
 <h3 align="center">A passionate App developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400"src="https://cdn.dribbble.com/users/927009/screenshots/19194758/media/c1d1989928a7df49fac8bb2bd1d6cc2b.mp4">
+<img align="right" alt="Coding" width="400"src="https://user-images.githubusercontent.com/90448195/234305777-97737a6c-9030-4af5-9b5a-403da4ef3f10.png)](https://cdn.dribbble.com/users/1182081/screenshots/15388136/media/3091843a3da1b217da25c193b71e47d5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-129&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-129" /> </p>
 
