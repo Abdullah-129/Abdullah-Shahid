@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-129&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-129" /> </p>
 
-- 🔭 I’m currently working on **Taxi App**
 
 - 🌱 I’m currently learning **C#**
 
